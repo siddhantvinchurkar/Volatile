@@ -159,7 +159,7 @@
 								<li><a href="https://www.linkedin.com/in/siddhantvinchurkar" target="_blank" class="icon fa-linkedin alt"><span class="label">LinkedIn</span></a></li>
 							</ul>
 						</section>
-						<p class="copyright">&copy; <a href="https://siddhantvinchurkar.wordpress.com/">Siddhant Vinchurkar</a> & <a href="https://niranjanbca21.wordpress.com/">Niranjan Raju</a>. All rights reserved.</p>
+						<p class="copyright">&copy; <a href="https://blog.siddhantvinchurkar.me/">Siddhant Vinchurkar</a> & <a href="https://niranjanbca21.wordpress.com/">Niranjan Raju</a>. All rights reserved.</p>
 					</footer>
 
 			</div>
